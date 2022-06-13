@@ -28,3 +28,13 @@
 h1{
     margin-bottom: 0px;
 }
+
+#lorem{
+    margin-bottom:50px;
+}
+.marker{
+    background-color: yellow;
+}
+.testo{
+    font-size: 23px;
+}
