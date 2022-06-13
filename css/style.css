@@ -38,3 +38,19 @@ h1{
 .testo{
     font-size: 23px;
 }
+.tabella{
+    text-align:start;
+    background-color: aqua;
+    font-size: 20px;
+}
+td{
+    height: 70px;
+}
+.td-special{
+    padding-right:40px;
+}
+
+
+.paragrafo{
+    font-size: 22px;;
+}
