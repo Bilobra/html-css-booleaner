@@ -1,0 +1,30 @@
+#main-div{
+    height: 100px;
+    width: auto;
+    background-color: rgb(77, 189, 241);
+    background-image: url('img/pattern.png'); 
+    /* non riesco a mettere lo sfondo */
+}
+
+#main-div img {
+    width: 150px;
+    height: 100px;
+}
+
+.autore {
+    font-size: 20px;
+    color: rgb(110, 110, 110);
+}
+
+#booleaner{
+    color: rgb(0, 132, 255);
+}
+.data{
+    font-size: 15px;
+    color: rgb(110, 110, 110);
+    margin-bottom:30px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
