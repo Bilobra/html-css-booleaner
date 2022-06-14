@@ -1,9 +1,9 @@
 #main-div{
-    height: 100px;
-    width: auto;
+    /* height: 100px;
+    width: auto; */
     background-color: rgb(86, 182, 226);
     background-image: url(../img/pattern.png); 
-    background-size: contain;
+    background-size: 360px;
     
 }
 
@@ -17,8 +17,8 @@
     color: rgb(110, 110, 110);
 }
 
-#booleaner{
-    color: rgb(0, 132, 255);
+a{
+    text-decoration: none;
 }
 .data{
     font-size: 15px;
@@ -43,6 +43,7 @@ h1{
     text-align:start;
     background-color: rgb(125, 224, 224);
     font-size: 18px;
+    border-collapse: collapse;
 }
 
 th{
@@ -55,12 +56,16 @@ th{
     background-color: white;
     margin:0;
     padding:0;
+    border-collapse: collapse;
 
 }
 tr{
-    padding:5px;
+    padding:10px;
 }
 .colonna1 {
+    width: 25%;
+}
+.colonna2 {
     width: 25%;
 }
 .paragrafo{
